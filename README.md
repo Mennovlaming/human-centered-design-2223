@@ -1,5 +1,15 @@
 # Human Centered Design
 
+![banner](https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/5333f575-cf55-4d73-be31-8cf8e3a52ece)
+
+## Onderzoeksvraag
+
+Hoe kunnen wij closed captions verbeteren zodat Marie een betere filmervaring heeft?  
+
+
+
+
+
 ## Inhoudsopgave
 - Opdracht
 - Omschrijving
