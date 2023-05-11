@@ -6,80 +6,93 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">
     <script defer src="script.js"></script>
 </head>
 <body>
     <main>
         <video id="myVideo" controls>
-            <source src="/video/11vsheli2.mp4" type="video/mp4">
+            <source src="video/11vsheli2.mp4" type="video/mp4">
             <!-- Voeg hier andere video formaten (webm, ogg) toe voor betere browser compatibiliteit -->
         </video>
           
         <div id="ondertiteling">
-            <p class='pilot1' data-start="0.000" data-end="3.000">'green light, light her up.'</p>
-            <p class="car" data-start="4.000" data-end="4.500">CAR HONKING</p>
-            <p class="car" data-start="5.000" data-end="5.500">CAR HONKING</p>
-            <p class="car" data-start="6.000" data-end="6.500">CAR HONKING</p>
-            <p class="car" data-start="7.000" data-end="7.500">CAR HONKING</p>
-            <p class="car" data-start="8.000" data-end="8.500">CAR HONKING</p>
+            <p data-start="0.000" data-end="3.000">'green light, light her up.'</p>
+            <p class="car" data-start="4.000" data-end="4.500">[CAR HONKING]</p>
+            <p class="car" data-start="5.000" data-end="5.500">[CAR HONKING]</p>
+            <p class="car" data-start="6.000" data-end="6.500">[CAR HONKING]</p>
+            <p class="car" data-start="7.000" data-end="7.500">[CAR HONKING]</p>
+            <p class="car" data-start="8.000" data-end="8.500">[CAR HONKING]</p>
+            <p class="red2" data-start="4.000" data-end="8.500"></p>
 
-            <p class="car2" data-start="9.000" data-end="9.500">CAR HONKING</p>
-            <p class="car3" data-start="10.000" data-end="10.500">CAR HONKING</p>
+            <p class="car2" data-start="9.000" data-end="9.500">[CAR HONKING]</p>
+            <p class="car3" data-start="10.000" data-end="10.500">[CAR HONKING]</p>
             <!-- <p class="car3" data-start="11.000" data-end="11.500">CAR HONKING</p> -->
             
-            <p class='pilot1' data-start="6.000" data-end="8.000">Pilot: Civvies. Five o'clock.</p>
-            <p class='soldier1' data-start="8.100" data-end="10.000">Soldier: [suprised] The hell??.</p>
+            <p data-start="6.000" data-end="8.000">Civvies. Five o'clock.</p>
+            <p data-start="8.100" data-end="10.000">[suprised] The hell??.</p>
             <!-- voeg hier meer ondertitels als p elementen toe voor de rest van de video -->
-            <p class='mike1'data-start="12.000" data-end="14.000">THERE SHE IS! THERE SHE IS!</p>
-            <p class="where" data-start="14.000" data-end="15.000">Where?</p>
-            <p class='mike1' data-start="16.000" data-end="19.000">Mike:ON THE GROUND!</p>
-            <p class="dudes"data-start="16.000" data-end="18.000">Argyle: Why are those dudes on the ground?</p>
-            <p data-start="17.000" data-end="18.000">Shit</p>
+            <p data-start="12.000" data-end="14.000">THERE SHE IS! THERE SHE IS!</p>
+            <p data-start="14.000" data-end="15.000">[Jonathan] Where?</p>
+            <p class='middle'data-start="16.000" data-end="19.000">[Mike] ON THE GROUND!</p>
+            <p class='left' data-start="16.000" data-end="18.000">[Argyle] Why are those dudes on the ground?</p>
+            <p class='right' data-start="17.000" data-end="18.000">[Jonathan] Shit</p>
 
-            <p class="soldier1" data-start="18.000" data-end="23.000">CAR ACCELERATING</p>
-            <p class="soldier1" data-start="22.000" data-end="24.000">Victor-Two-Sierrra, We’ve got a civvy headed our way.</p>
-            <p class="soldier1" data-start="24.000" data-end="27.000">Ignore it. Just take out the girl.</p>
-            <p class="soldier1" data-start="27.000" data-end="29.000">Copy that. Take the shot.</p>
-            <p class="soldier1" data-start="31.000" data-end="33.000">Soldier: Found ya</p>
-            <p class="Helicopter" data-start="33.000" data-end="36.000">[Helicopter starts making more noise]</p>
-            <p class="soldier2" data-start="35.000" data-end="38.000">Hell are you doing? Hold her steady</p>
-            <p class="Helicopter" data-start="38.000" data-end="42.000">[Helicopter noises getting harder]</p>
-            <p class="soldier2" data-start="40.000" data-end="42.000">Soldier: [grunts]</p>
-            <p class="soldier2" data-start="44.000" data-end="46.000">JESUS CHRIST</p>
-            <p class="soldier2" data-start="46.000" data-end="48.000">SHIT</p>
-            <p class="soldier2" data-start="50.000" data-end="52.000">soldier: SHIT, HOLY SHIT</p>
-            <p class="soldier2" data-start="53.000" data-end="55.000">[LOUD HELICOPTER NOISES]</p>
-            <p class="car2" data-start="53.000" data-end="53.500">[GUN FIRING]</p>
-            <p class="car2" data-start="54.000" data-end="54.500">[GUN FIRING]</p>
-            <p class="car2" data-start="55.500" data-end="56.000">[GUN FIRING]</p>
-            <p class="car2" data-start="56.500" data-end="57.000">[GUN FIRING]</p>
-            <p class="car2" data-start="61.000" data-end="64.000">[SOLDIERS SCREAMING]</p>
-            <p class="soldier2" data-start="64.000" data-end="66.000">pilot: IM LOSING HER!!</p>
-            <p class="soldier2" data-start="71.000" data-end="75.000">pilot: IM LOSING HER!!</p>
-            <p class="floating" data-start="76.000" data-end="76.500">[HELICOPTER ROTATING NOISES]</p>
-            <p class="floating" data-start="77.000" data-end="77.500">[HELICOPTER ROTATING NOISES]</p>
-            <p class="floating" data-start="78.000" data-end="78.500">[HELICOPTER ROTATING NOISES]</p>
-            <p class="floating" data-start="79.000" data-end="80.000">[HELICOPTER ROTATING NOISES]</p>
-            <p class="floating" data-start="80.500" data-end="81.000">[HELICOPTER ROTATING NOISES]</p>
-            <p class="floating" data-start="81.500" data-end="82.000">[HELICOPTER ROTATING NOISES]</p>
-            <p class="floating" data-start="83.500" data-end="84.000">[HELICOPTER ROTATING NOISES]</p>
-            <p class="floating" data-start="84.500" data-end="85.000">[SOLDIERS SCREAMING]</p>
-            <p class="floating" data-start="85.500" data-end="89.000">[HELICOPTER ROTATING NOISES]</p>
-            <p class="floating" data-start="89.500" data-end="90.000">[SOLDIERS SCREAMING]</p>
-            <p class="floating" data-start="90.500" data-end="91.000">[HELICOPTER ROTATING NOISES]</p>
-            <p class="soldier1" data-start="91.500" data-end="96.000">[ELEVEN SCREAMING]</p>
-            <p class="soldier3" data-start="96.000" data-end="98.000">[ELEVEN SCREAMING]</p>
-            <p class="soldier1" data-start="99.000" data-end="100.000">[SLOWMOTION ROTATING HELICOPTER]</p>
-            <p class="soldier1" data-start="100.500" data-end="101.500">[SLOWMOTION ROTATING HELICOPTER]</p>
-            <p class="soldier1" data-start="102.000" data-end="103.000">[SLOWMOTION ROTATING HELICOPTER]</p>
-            <p class="soldier1 vibrating" data-start="102.000" data-end="106.000">[LOUD EXPLOSION]</p>
-            <p class="soldier4" data-start="106.000" data-end="110.000">[ELEVEN SCREAMING]</p>
-            <p class="soldier4" data-start="109.000" data-end="111.000">[MIKE AND JONATHAN SCREAMING]</p>
-            <p class="soldier1 " data-start="110.000" data-end="112.000">[LOUD EXPLOSION]</p>
-            <p class="falling1 " data-start="114.000" data-end="115.000">[Helicopter parts falling down]</p>
-            <p class="falling2 " data-start="115.500" data-end="116.500">[Helicopter parts falling down]</p>
-            <p class="falling3 " data-start="117.000" data-end="118.000">[Helicopter parts falling down]</p>
-            <p class="falling4 " data-start="118.000" data-end="120.000">[Eleven sighs]</p>
+            <p  data-start="18.000" data-end="22.000">[CAR ACCELERATING]</p>
+            <p class="red3" data-start="18.000" data-end="22.000"></p>
+            <p  data-start="22.000" data-end="24.000">Victor-Two-Sierrra, We’ve got a civvy headed our way.</p>
+            <p  data-start="24.000" data-end="27.000" >Ignore it. Just take out the girl.</p>
+            <p  data-start="27.000" data-end="29.000">Copy that. Take the shot.</p>
+            <p  data-start="31.000" data-end="33.000">Soldier: Found ya</p>
+            <p  data-start="33.000" data-end="36.000">[Helicopter starts making noise]</p>
+            <p  data-start="36.000" data-end="39.000">Hell are you doing? Hold her steady</p>
+            <p  data-start="39.000" data-end="42.000">[Helicopter noises getting harder]</p>
+            <p  data-start="42.000" data-end="42.500">[GUNSHOT]</p>
+            <p  class='gun' data-start="43.000" data-end="43.500"></p>
+            <p  data-start="42.000" data-end="42.500">[GUNSHOT]</p>
+            <p  data-start="44.000" data-end="46.000">JESUS CHRIST</p>
+            <p  data-start="46.000" data-end="48.000">SHIT</p>
+            <p  class='gun2' data-start="48.500" data-end="49.000"></p>
+            <p  data-start="50.000" data-end="52.000">soldier: SHIT!!, HOLY SHIT!!</p>
+            <p  class='gun2' data-start="50.500" data-end="51.000"></p>
+            <p  class='gun2' data-start="52.500" data-end="53.000"></p>
+            <p  data-start="53.000" data-end="55.000">[LOUD HELICOPTER NOISES]</p>
+            <p  class='gun2' data-start="55.500" data-end="56.000"></p>
+            <p  class='gun3' data-start="56.500" data-end="57.000"></p>
+            <p  data-start="53.000" data-end="53.500">[GUN FIRING]</p>
+            <p  data-start="54.000" data-end="54.500">[GUN FIRING]</p>
+            <p  data-start="55.500" data-end="56.000">[GUN FIRING]</p>
+            <p  data-start="56.500" data-end="57.000">[GUN FIRING]</p>
+            <p  data-start="61.000" data-end="64.000">[SOLDIERS SCREAMING]</p>
+            <p  data-start="64.000" data-end="66.000">pilot: IM LOSING HER!!</p>
+            <p  data-start="71.000" data-end="75.000">pilot: IM LOSING HER!!</p>
+            <p  data-start="76.000" data-end="76.500">[HELICOPTER ROTATING NOISES]</p>
+            <p  data-start="77.000" data-end="77.500">[HELICOPTER ROTATING NOISES]</p>
+            <p  data-start="78.000" data-end="78.500">[HELICOPTER ROTATING NOISES]</p>
+            <p  data-start="79.000" data-end="80.000">[HELICOPTER ROTATING NOISES]</p>
+            <p  data-start="80.500" data-end="81.000">[HELICOPTER ROTATING NOISES]</p>
+            <p  data-start="81.500" data-end="82.000">[HELICOPTER ROTATING NOISES]</p>
+            <p  data-start="83.500" data-end="84.000">[HELICOPTER ROTATING NOISES]</p>
+            <p  data-start="84.500" data-end="85.000">[SOLDIERS SCREAMING]</p>
+            <p  data-start="85.500" data-end="89.000">[SOLDIERS SCREAMING]</p>
+            <p  data-start="89.500" data-end="90.000">[SOLDIERS SCREAMING]</p>
+            <p  data-start="90.500" data-end="91.000">[HELICOPTER ROTATING NOISES]</p>
+            <p  data-start="91.500" data-end="96.000">[ELEVEN SCREAMING]</p>
+            <p  data-start="96.000" data-end="98.000">[ELEVEN SCREAMING]</p>
+            <p  data-start="99.000" data-end="100.000">[SLOWMOTION ROTATING HELICOPTER]</p>
+            <p  data-start="100.500" data-end="101.500">[SLOWMOTION ROTATING HELICOPTER]</p>
+            <p  data-start="102.000" data-end="103.000">[SLOWMOTION ROTATING HELICOPTER]</p>
+            <!-- <p  data-start="102.000" data-end="106.000">[LOUD EXPLOSION]</p> -->
+            <p  data-start="106.000" data-end="110.000">[ELEVEN SCREAMING]</p>
+            <p  data-start="109.000" data-end="111.000">[MIKE AND JONATHAN SCREAMING]</p>
+            <p  data-start="110.000" data-end="112.000">[LOUD EXPLOSION]</p>
+            <p class="falling1" data-start="114.000" data-end="115.000">[Helicopter parts falling down]</p>
+            <p class="falling2" data-start="115.500" data-end="116.500">[Helicopter parts falling down]</p>
+            <p class="falling3" data-start="117.000" data-end="118.000">[Helicopter parts falling down]</p>
+            
+            <p class="red" data-start="102.000" data-end="113.000"></p>
         </div>
     </main>    
 </body>
