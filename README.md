@@ -117,6 +117,9 @@ Marie zei hierover dat dit niet de beste toevoeging was, ze is namelijk gewend a
 ## Conslusie
 Ik alles wat uit de tests kwam meegenomen in mijn uiteindelijke versie, en ik vond het super interessant om een andere kijk te hebben op deze dingen. In het verleden heb ik nooit zoveel onderzoek gedaan naar een persoon specifiek, iets wat toch wel heel anders is dan voor een doelgroep. Het resultaat uiteindelijk lijkt helemaal niet zoveel te verschillen van de huidige closed captions van bijvoorbeeld Netflix, en dat is ook helemaal oke! Blijkbaar was dit al een stap in de goede richting en had het (voor nu) alleen nog wat finising touches nodig. 
 
-
-
+## Bronnen 
+- Flipping things (https://exclusive-design.vasilis.nl/flipping-things/)
+- Stranger Things season 4 
+- Klasgenoten
+- Marie zelf
 
