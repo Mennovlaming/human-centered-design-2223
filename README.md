@@ -6,9 +6,33 @@
 
 Hoe kunnen wij closed captions verbeteren zodat Marie een betere filmervaring heeft?  
 
+## Probleemdefinitie
+
+Marie stoort zich vaak aan de manier hoe zij in series of films een hoop nuance en emotie mist, omdat deze minder goed worden uitgedrukt met closed captions.
+Aan ons om dit probleem op te lossen en voor Marie haar ervaring met closed captions verbeteren.
+
+## Oplossing(en)
+
+Een oplossing voor Marie zijn closed captions die beter werken, closed captions die aansluiten bij de dingen die Marie mist in de huidige closed captions:
+
+- Marie weet niet altijd wie aan het woord is.
+Een oplossing hiervan zijn closed captions die dit aangeven als het nodig is.
+![image](https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/df0d39c7-42bd-4709-ba20-87b9ef5d6fd7)
+
+- Ze wilt dat accenten, 'slang' word meegenomen in closed captions.
+![image](https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/2dcb1133-8b52-4118-b390-4d6c64e9d2ef)
+
+- Emotie ontbreekt vaak in closed captions.
+![image](https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/6dbe1f14-3a57-4b69-84c8-fb94739388a3)
+
+-Geluiden en achtergrondgeluiden worden niet altijd duidelijk beschreven, als ze bijvoorbeeld buiten beeld zijn.
+![image](https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/9ec0ad74-1e62-4168-9f60-7c6a3165761e)
+
+## Link prototype
 
 
 
+# Documentatie van de Design Principles, User Needs, Testen en resultaten.
 
 ## Inhoudsopgave
 - Opdracht
@@ -17,11 +41,7 @@ Hoe kunnen wij closed captions verbeteren zodat Marie een betere filmervaring he
 - Testresultaten
 
 
-
-Uit de feedback kwam dat het overbodig was om te vertellen dat het de pilot was die dit zei, dit kan ze namelijk zien.
-<img width="832" alt="image" src="https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/8ead372d-5cc3-4f43-a14c-d58df4068387">
-
-## Opdracht
+## Inleiding
 Voor Human Centered Design kregen wij de opdracht om een serie of filmervaring beter te maken voor Marie. Marie is Doof (met hoofdletter, word straks duidelijker), en Marie stoort zich vaak aan de manier hoe zij in series of films een hoop nuance en emotie mist, omdat deze minder goed worden uitgedrukt met closed captions. Aan ons om hier een creatieve en nuttige oplossing voor te bedenken om wat meer nuance in closed captions te krijgen.
 De opdracht is individueel, maar wij waren wel als groep ingedeelt bij Marie omdat er simpelweg de tijd niet is om dit met iedereen los te doen.
 
@@ -49,8 +69,17 @@ Marie wilt dat closed captions beter werken, nu heeft ze vaak het probleem dat h
 Hoe zou Marie dit krijgen?
 
 Voor Marie zouden de closed captions een stuk beter zijn, als we een manier vinden om meer nuance te tonen. Dit zouden we kunnen bereiken door duidelijker te maken op wat voor manier iemand aan het praten is (denk aan hoofdlettergebruik, lettergrootte). Maar ook om duidelijk aan te geven wie aan het woord als, als dit nog niet duidelijk is, en om een goede manier te vinden om ook achtergrondgeluiden mee te nemen in de closed captions. 
-Kortom: Meer spelen met effecten en afwisseling om op deze manier minder saaie closed captions te krijgen
- 
+Kortom: Door meer te spelen met effecten en afwisseling om op deze manier minder saaie closed captions te krijgen.
+
+Waarom zou Marie kiezen voor mijn closed captions?
+
+Marie zou met deze closed captions naar mijn idee een beter ervaring hebben met series en documentaires, omdat Marie nu en een duidelijk beeld heeft wie er aan het praten is in een onoverzichtelijke situatie, en omdat Marie achtergrondgeluiden en details meekrijgt, die ze voorheen misschien wel helemaal niet meekreeg.
+Kortom: Ik denk dat Marie met deze closed captions een fijnere ervaring zal hebben dan de huidige closed captions.
+
+
+
+Uit de feedback kwam dat het overbodig was om te vertellen dat het de pilot was die dit zei, dit kan ze namelijk zien.
+<img width="832" alt="image" src="https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/8ead372d-5cc3-4f43-a14c-d58df4068387">
 
 
 
