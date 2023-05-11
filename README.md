@@ -89,7 +89,7 @@ We hebben een interview gedaan met Marie om de situatie goed te kunnen bestudere
 Ik weet na het bestuderen van de situatie dat Marie zich kan storen aan onduidelijke momenten waar meerder mensen aan het praten zijn, dat ze nuance mist, dat achtergrondgeluiden vaak achterwege worden gelaten, dat ik het laatste seizoen van Stranger Things even goed moet bekijken voor goede voorbeelden.
 
 ### Ignore conventions
-We zijn als ontwerpers geneigd om veel dingen hetzelfde te doen, simpelweg omdat dit werkt voor de meeste mensen. Het consistend designen werkt vaak erg goed, maar in deze situatie moeten we niet bang zijn om deze design patterns te doorbreken, mits je er iets nuttigs uit kan halen natuurlijk.
+We zijn als ontwerpers geneigd om veel dingen hetzelfde te doen, simpelweg omdat dit werkt voor de meeste mensen. Het consistend designen werkt vaak erg goed, maar in deze situatie moeten we niet bang zijn om deze design patterns te doorbreken, mits je er iets nuttigs uit kan halen natuurlijk. Een design pattern die ik wou doorbreken, was het in het midden zetten van de ondertiteling, dit was achteraf toch niet een hele goeie optie.
 
 ### Prioritise identity
 Het originele principe, 'prioritise content' is een principe dat ook vrij voor zichzelf spreekt, de content van een website is het hoofddoel van je ontwerp, je wilt dat je gebruiker zoveel mogelijk content mee krijgt. Door dit principe om te draaien/te veranderen zegt Vasilis dat er meer is dan content. Je kan bijvoorbeeld ook eens proberen te letten op de identiteit van de gebruiker, wat hebben zij te bieden?
