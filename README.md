@@ -30,7 +30,7 @@ Een oplossing hiervan zijn closed captions die dit aangeven als het nodig is.
 
 ## Link prototype
 
-
+https://mennovlaming.github.io/human-centered-design-2223/
 
 # Documentatie van de Design Principles, User Needs, Testen en resultaten.
 
