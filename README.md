@@ -79,7 +79,9 @@ Kortom: Ik denk dat Marie met deze closed captions een fijnere ervaring zal hebb
 ## Design principles
 
 Een docent van onze opleiding, Vasilis van Gemert, heeft een artikel gemaakt over design principles, genaamd 'Flipping things'. Dit artikel sluit ontzettend goed aan bij deze opdracht, omdat Vasillis in dit artikel ook moet ontewerpen voor een specifiek persoon, en niet voor een doelgroep. Hij geeft een andere draai aan deze design principles, vandaar de naam 'Flipping things', en ik zal hieronder laten zien wat ik uit dit artikel heb opgenomen.
-https://exclusive-design.vasilis.nl/images/flipping.png![image](https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/fbf1b1f7-59d0-4dde-af0a-01c3d5b60b89)
+<img width="901" alt="image" src="https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/0f5c5d6e-004d-4aef-8484-1e528d9b13a4">
+
+
 
 ### Study situation
 Dit principe spreekt voor zich. Eerst zal je de situatie waarvoor je gaat ontwerpen goed moeten bestuderen. Elke case is in zo'n situatie anders, je bent namelijk niet voor de massa aan het ontwerpen, maar voor een persoon specifiek.In ons geval moesten we goed kijken naar hoe Marie op dit moment closed captions ervaart. 
