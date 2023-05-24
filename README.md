@@ -125,3 +125,7 @@ Ik alles wat uit de tests kwam meegenomen in mijn uiteindelijke versie, en ik vo
 - Klasgenoten
 - Marie zelf
 
+
+## Testen
+
+Om onze prototypes zo goed mogelijk te laten werken, gaan we deze 2 keer laten testen ons testpersoon. Onze eerste test was iets minder optimaal, omdat we ervoor maar 2 uur hadden om iets voor te bereiden en het hierom lastig was om al een werkend prototype te hebben om te testen. Mijn oplossing hiervoor was het ontwerpen van verschillende schermen, het bespreken van mogelijke opties en om goed te luisteren naar voorbeelden die voor haar goed werken.  
