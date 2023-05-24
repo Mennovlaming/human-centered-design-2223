@@ -76,7 +76,7 @@ Waarom zou Marie kiezen voor mijn closed captions?
 Marie zou met deze closed captions naar mijn idee een beter ervaring hebben met series en documentaires, omdat Marie nu en een duidelijk beeld heeft wie er aan het praten is in een onoverzichtelijke situatie, en omdat Marie achtergrondgeluiden en details meekrijgt, die ze voorheen misschien wel helemaal niet meekreeg.
 Kortom: Ik denk dat Marie met deze closed captions een fijnere ervaring zal hebben dan de huidige closed captions.
 
-## Testen 1
+## Testen 
 
 Om onze prototypes zo goed mogelijk te laten werken, gaan we deze 2 keer laten testen ons testpersoon. Onze eerste test was iets minder optimaal, omdat we ervoor maar 2 uur hadden om iets voor te bereiden en het hierom lastig was om al een werkend prototype te hebben om te testen. 
 Mijn oplossing hiervoor was het ontwerpen van verschillende schermen, het bespreken van mogelijke opties en om goed te luisteren naar voorbeelden die voor haar al goed werken. 
@@ -136,7 +136,7 @@ Het originele principe, 'prioritise content' is een principe dat ook vrij voor z
 Add nonsense vind ik een van de leukste omgedraaide principes van dit artikel. Hij zegt hier eigenlijk dat je jezelf moet laten gaan en moet gaan expirimenteren met nieuwe, misschien onlogische dingen. Dingen die misschien normaal helemaal nergens op slaan zouden nu wel eens een doorbrekende factor kunnen zijn. Hierdoor ben ik zelf gaan expirimenteren met kleuren en indicaties.
 
 
-## Testen 2
+## Test 2
 
 De tweede test was de test om ons prototype te perfectioneren door hem te laten testen door Marie, wat zijn nog dingen die anderes kunnen, dingen die goed gaan, kortom: Wat moet er nog veranderen bij het eindproduct?
 
