@@ -76,6 +76,43 @@ Waarom zou Marie kiezen voor mijn closed captions?
 Marie zou met deze closed captions naar mijn idee een beter ervaring hebben met series en documentaires, omdat Marie nu en een duidelijk beeld heeft wie er aan het praten is in een onoverzichtelijke situatie, en omdat Marie achtergrondgeluiden en details meekrijgt, die ze voorheen misschien wel helemaal niet meekreeg.
 Kortom: Ik denk dat Marie met deze closed captions een fijnere ervaring zal hebben dan de huidige closed captions.
 
+## Testen 1
+
+Om onze prototypes zo goed mogelijk te laten werken, gaan we deze 2 keer laten testen ons testpersoon. Onze eerste test was iets minder optimaal, omdat we ervoor maar 2 uur hadden om iets voor te bereiden en het hierom lastig was om al een werkend prototype te hebben om te testen. 
+Mijn oplossing hiervoor was het ontwerpen van verschillende schermen, het bespreken van mogelijke opties en om goed te luisteren naar voorbeelden die voor haar al goed werken. 
+Onze eerste test was eigenlijk meer een kennismaking dan een daadwerkelijke test, omdat we nog geen prototypes hadden, wel hebben we zoveel mogelijk voorbereid en overlegt wat we wouden weten van Marie.
+
+### Test 1 
+
+Voor de test hadden wij als groepje een aantal vragen opgesteld, omdat wij onze tijd zo nuttig mogelijk wouden besteden.
+ - Is er een verschil tussen 'doof' en 'Doof'?
+ - Wat mis je momenteel het meeste als je een serie kijkt?
+ - Heb je goede voorbeelden?
+ 
+Ik had ook zelf nog een paar vragen:
+ - Zou een iets uitgebreidere backlight voor jou kunnen werken?
+ - Zou het voor jou werken als ik ga spelen met de locatie van de closed captions?
+ - Kan ik een scene van stranger things gebruiken?
+
+### Insights Test 1
+
+De belangrijkste insights die ik heb kunnen meenemen uit de eerste test:
+ - Het is voor Marie moeilijk om te zien wie er aan het praten is (als het niet overduidelijk is).
+ - Achtergrondgeluiden worden niet meegenomen.
+ - 'Lege' closed captions werken niet (bijvoorbeeld: [Spaans gepsrek])
+ - Probeer te spelen met kleuren, vormen en locaties van de closed captions. 
+ - Lichaamstaal is niet altijd te zien, probeer hierom emoties in de closed captions te krijgen.
+ - Chaotische scene's kunnen erg lastig zijn, omdat er veel door elkaar gebeurd.
+ - Netflix heeft de beste closed captions.
+ - Maak het niet te overdreven, als je iets ziet hoeft het niet nog een keer vermeld te worden.
+
+### Conclusie Test 1
+
+Om voor Marie een betere closed caption ervaring te creeeren, zullen we moeten gaan spelen met de vormgeving van de closed captions. 
+Denk ook om achtergrondgeluiden die vaak vergeten worden. Voor goede voorbeelden kunnen we kijken naar bijvoorbeeld netflix. Het nieuwe
+seizoen van Stranger Things is een goed voorbeeld van te veel closed captions. 
+Voor de tweede test wil ik een prototype hebben om Marie zelf te laten testen en hier de uiteidelijke versie uit te krijgen.
+
 ## Design principles
 
 Een docent van onze opleiding, Vasilis van Gemert, heeft een artikel gemaakt over design principles, genaamd 'Flipping things'. Dit artikel sluit ontzettend goed aan bij deze opdracht, omdat Vasillis in dit artikel ook moet ontewerpen voor een specifiek persoon, en niet voor een doelgroep. Hij geeft een andere draai aan deze design principles, vandaar de naam 'Flipping things', en ik zal hieronder laten zien wat ik uit dit artikel heb opgenomen.
@@ -128,4 +165,41 @@ Ik alles wat uit de tests kwam meegenomen in mijn uiteindelijke versie, en ik vo
 
 ## Testen
 
-Om onze prototypes zo goed mogelijk te laten werken, gaan we deze 2 keer laten testen ons testpersoon. Onze eerste test was iets minder optimaal, omdat we ervoor maar 2 uur hadden om iets voor te bereiden en het hierom lastig was om al een werkend prototype te hebben om te testen. Mijn oplossing hiervoor was het ontwerpen van verschillende schermen, het bespreken van mogelijke opties en om goed te luisteren naar voorbeelden die voor haar goed werken.  
+Om onze prototypes zo goed mogelijk te laten werken, gaan we deze 2 keer laten testen ons testpersoon. Onze eerste test was iets minder optimaal, omdat we ervoor maar 2 uur hadden om iets voor te bereiden en het hierom lastig was om al een werkend prototype te hebben om te testen. 
+Mijn oplossing hiervoor was het ontwerpen van verschillende schermen, het bespreken van mogelijke opties en om goed te luisteren naar voorbeelden die voor haar al goed werken. 
+Onze eerste test was eigenlijk meer een kennismaking dan een daadwerkelijke test, omdat we nog geen prototypes hadden, wel hebben we zoveel mogelijk voorbereid en overlegt wat we wouden weten van Marie.
+
+### Test 1 
+
+Voor de test hadden wij als groepje een aantal vragen opgesteld, omdat wij onze tijd zo nuttig mogelijk wouden besteden.
+ - Is er een verschil tussen 'doof' en 'Doof'?
+ - Wat mis je momenteel het meeste als je een serie kijkt?
+ - Heb je goede voorbeelden?
+ 
+Ik had ook zelf nog een paar vragen:
+ - Zou een iets uitgebreidere backlight voor jou kunnen werken?
+ - Zou het voor jou werken als ik ga spelen met de locatie van de closed captions?
+ - Kan ik een scene van stranger things gebruiken?
+
+### Insights Test 1
+
+De belangrijkste insights die ik heb kunnen meenemen uit de eerste test:
+ - Het is voor Marie moeilijk om te zien wie er aan het praten is (als het niet overduidelijk is).
+ - Achtergrondgeluiden worden niet meegenomen.
+ - 'Lege' closed captions werken niet (bijvoorbeeld: [Spaans gepsrek])
+ - Probeer te spelen met kleuren, vormen en locaties van de closed captions. 
+ - Lichaamstaal is niet altijd te zien, probeer hierom emoties in de closed captions te krijgen.
+ - Chaotische scene's kunnen erg lastig zijn, omdat er veel door elkaar gebeurd.
+ - Netflix heeft de beste closed captions.
+ - Maak het niet te overdreven, als je iets ziet hoeft het niet nog een keer vermeld te worden.
+
+### Conclusie 
+
+Om voor Marie een betere closed caption ervaring te creeeren, zullen we moeten gaan spelen met de vormgeving van de closed captions. 
+Denk ook om achtergrondgeluiden die vaak vergeten worden. Voor goede voorbeelden kunnen we kijken naar bijvoorbeeld netflix. Het nieuwe
+seizoen van Stranger Things is een goed voorbeeld van te veel closed captions. 
+Voor de tweede test wil ik een prototype hebben om Marie zelf te laten testen en hier de uiteidelijke versie uit te krijgen.
+
+## Test 2
+
+
