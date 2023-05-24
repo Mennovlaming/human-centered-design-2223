@@ -142,31 +142,49 @@ De tweede test was de test om ons prototype te perfectioneren door hem te laten 
 
 Uit de eerste test had ik meegenomen dat ik zou gaan spelen met vorm, kleur en locaties van de closed captions. Dat een verbeterde variant van een backlight zou kunnen werken, als het goed gebruikt zou worden. En dat ik Stranger Things kon gebruiken als voorbeeld. 
 
-Vraag 1: Werken kleuren om emoties mee te geven?
+#### Vraag 1: 
+Werken kleuren om emoties mee te geven?
 ![image](https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/1799e10d-9fd8-42d8-8be5-feb5e6b2e3f3)
 
-Resultaat: Marie vond dit geen goed idee. Ze zei namelijk dat iedereen een andere interpetatie kan hebben wat betreft kleur, voor mij is bijvoorbeeld rood een boze kleur, voor haar kan het ook iets van warmte zijn. Ik vond dit eigenlijk erg leuk, want dit gaf me weer een andere kijk op iets.
+#### Resultaat: 
+Marie vond dit geen goed idee. Ze zei namelijk dat iedereen een andere interpetatie kan hebben wat betreft kleur, voor mij is bijvoorbeeld rood een boze kleur, voor haar kan het ook iets van warmte zijn. Ik vond dit eigenlijk erg leuk, want dit gaf me weer een andere kijk op iets.
 
 
-Vraag 2: Ik heb nu mijn closed captions bij de persoon die aan het praten is, werkt dit?
+#### Vraag 2: 
+Ik heb nu mijn closed captions bij de persoon die aan het praten is, werkt dit?
 <img width="550" alt="image" src="https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/2caa1017-25b7-4e44-9ae8-04721137e33f">
 
-Resultaat: Ook dit was niet zo'n goed idee, ze is namelijk gewend aan de closed captions in het midden, en dat werkt prima voor haar. Ik had de 'spelen met locatie' verkeerd geinterperteerd. 
+#### Resultaat: 
+Ook dit was niet zo'n goed idee, ze is namelijk gewend aan de closed captions in het midden, en dat werkt prima voor haar. Ik had de 'spelen met locatie' verkeerd geinterperteerd. 
 
-Vraag 3: Zou een backlight in combinatie met locatie van het geluid werken zodat je weet waar geluid vandaan komt?
+#### Vraag 3: 
+Zou een backlight in combinatie met locatie van het geluid werken zodat je weet waar geluid vandaan komt?
 Uitleg: In deze scene komt er een auto van de linkerkant aanrijden, de backlight geeft aan waar het geluid vandaan komt.
 ![image](https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/997bedc7-d86c-4f11-b213-f6db40981e94)
 
-Resultaat: Dit is een goed idee! Zorg er alleen ook bij dit voor dat het niet te overduidelijk is, in deze situatie zou het goed kunnen werken.
+#### Resultaat: 
+Dit is een goed idee! Zorg er alleen ook bij dit voor dat het niet te overduidelijk is, in deze situatie zou het goed kunnen werken.
 
+#### 
 Opmerking: Ik hoef niet bij elke closed caption neer te zetten wie aan het praten is, als het overduidelijk is wie er aan het praten is, kan ik dit achterwege laten, ditzelfde geld voor overduidelijke geluiden.
 <img width="832" alt="image" src="https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/8ead372d-5cc3-4f43-a14c-d58df4068387">
 
 ### Conslusie test 2
 
 Ik heb goed gespeeld met verschillende effecten, de backlight was een goed idee. De kleuren, locatie en namen van personen kan ik achterwege laten voor het eindproduct. 
+Voor het eindproduct ga ik:
+ - Kijken of ik mijn backlight functie op meerdere plekken nuttig kan krijgen (zonder te overdrijven)
+ - Kleuren helemaal weglaten, schreeuwende closed captions vervangen met hoofdletters i.p.v. rood (bleek goed te werken uit test klasgenoot)
+ - De closed captions gewoon in het midden laten.
+ - Namen van personen die overduidelijk zijn weg laten.
 
-Ik heb alles wat uit de tests kwam meegenomen in mijn uiteindelijke versie, en ik vond het super interessant om een andere kijk te hebben op deze dingen. In het verleden heb ik nooit zoveel onderzoek gedaan naar een persoon specifiek, iets wat toch wel heel anders is dan voor een doelgroep. Het resultaat uiteindelijk lijkt helemaal niet zoveel te verschillen van de huidige closed captions van bijvoorbeeld Netflix, en dat is ook helemaal oke! Blijkbaar was dit al een stap in de goede richting en had het (voor nu) alleen nog wat finising touches nodig.
+## Eindresultaat & Conslusie
+
+https://mennovlaming.github.io/human-centered-design-2223/
+
+Voor mijn eindresultaat heb ik de resultaten van de afgelopen test verwerkt. Mijn huidige prototype verschilt helemaal niet erg veel van de huidige closed captions van Netflix, en dit is helemaal prima! Zoals Marie zelf zei hoefde we niet het wiel opnieuw uit te vinden, maar zijn het juist de kleine dingetjes die het soms net even leuker maken.
+
+Aan de hand van testresultaten heb ik een hoop dingen die mij leuk leken achterwege gelaten, en dat vond ik achteraf juist het leuke van deze manier van onderzoek doen; je kan bedenken wat je wilt, maar uiteindelijk draait het allemaal om je hoofdpersoon waarvoor je dit maakt. Blijkbaar zit Netflix al aardig in de buurt van goede closed captions, en heeft het (voor nu) alleen wat finishing touches nodig.
 
 ## Bronnen 
 - Flipping things (https://exclusive-design.vasilis.nl/flipping-things/)
