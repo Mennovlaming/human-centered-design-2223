@@ -105,6 +105,7 @@ De belangrijkste insights die ik heb kunnen meenemen uit de eerste test:
  - Chaotische scene's kunnen erg lastig zijn, omdat er veel door elkaar gebeurd.
  - Netflix heeft de beste closed captions.
  - Maak het niet te overdreven, als je iets ziet hoeft het niet nog een keer vermeld te worden.
+ - Een uitgebreideren backlight zou kunnen werken, mits het goed gebruikt word.
 
 ### Conclusie Test 1
 
@@ -134,27 +135,38 @@ Het originele principe, 'prioritise content' is een principe dat ook vrij voor z
 ### Add nonsense
 Add nonsense vind ik een van de leukste omgedraaide principes van dit artikel. Hij zegt hier eigenlijk dat je jezelf moet laten gaan en moet gaan expirimenteren met nieuwe, misschien onlogische dingen. Dingen die misschien normaal helemaal nergens op slaan zouden nu wel eens een doorbrekende factor kunnen zijn. Hierdoor ben ik zelf gaan expirimenteren met kleuren en indicaties.
 
-## Testresultaten
 
-Tijdens het testen heb ik een paar leuke nieuwe inzichten gekregen, die mij ook anders hebben doen denken over de situatie. 
-In eerste instantie leek het mij bijvoorbeeld erg leuk om te gaan werken met kleuren en deze in verband te brengen met bepaalde emoties, bijvoorbeeld boos word rood, verdietig blauw, enzovoort. 
+## Testen 2
 
+De tweede test was de test om ons prototype te perfectioneren door hem te laten testen door Marie, wat zijn nog dingen die anderes kunnen, dingen die goed gaan, kortom: Wat moet er nog veranderen bij het eindproduct?
+
+Uit de eerste test had ik meegenomen dat ik zou gaan spelen met vorm, kleur en locaties van de closed captions. Dat een verbeterde variant van een backlight zou kunnen werken, als het goed gebruikt zou worden. En dat ik Stranger Things kon gebruiken als voorbeeld. 
+
+Vraag 1: Werken kleuren om emoties mee te geven?
 ![image](https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/1799e10d-9fd8-42d8-8be5-feb5e6b2e3f3)
 
-Marie vond dit geen goed idee. Ze zei namelijk dat iedereen een andere interpetatie kan hebben wat betreft kleur, voor mij is bijvoorbeeld rood een boze kleur, voor haar kan het ook iets van warmte zijn. 
-Ik vond dit eigenlijk erg leuk, want dit gaf me weer een andere kijk op iets.
+Resultaat: Marie vond dit geen goed idee. Ze zei namelijk dat iedereen een andere interpetatie kan hebben wat betreft kleur, voor mij is bijvoorbeeld rood een boze kleur, voor haar kan het ook iets van warmte zijn. Ik vond dit eigenlijk erg leuk, want dit gaf me weer een andere kijk op iets.
 
-Ook had ik bij elke persoon die aan het praten was een caption toegevoegd, dit was overbodig zei Marie, dit kan ze namelijk gewoon zien!
-<img width="832" alt="image" src="https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/8ead372d-5cc3-4f43-a14c-d58df4068387">
 
-Ook had ik eerst mijn closed captions bij de persoon die aan het praten was. 
+Vraag 2: Ik heb nu mijn closed captions bij de persoon die aan het praten is, werkt dit?
 <img width="550" alt="image" src="https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/2caa1017-25b7-4e44-9ae8-04721137e33f">
 
-Marie zei hierover dat dit niet de beste toevoeging was, ze is namelijk gewend aan de captions in het midden, en dat is prima. 
-![image](https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/5a4e8048-55de-45fb-ac26-82951cb74918)
+Resultaat: Ook dit was niet zo'n goed idee, ze is namelijk gewend aan de closed captions in het midden, en dat werkt prima voor haar. Ik had de 'spelen met locatie' verkeerd geinterperteerd. 
 
-## Conslusie
-Ik alles wat uit de tests kwam meegenomen in mijn uiteindelijke versie, en ik vond het super interessant om een andere kijk te hebben op deze dingen. In het verleden heb ik nooit zoveel onderzoek gedaan naar een persoon specifiek, iets wat toch wel heel anders is dan voor een doelgroep. Het resultaat uiteindelijk lijkt helemaal niet zoveel te verschillen van de huidige closed captions van bijvoorbeeld Netflix, en dat is ook helemaal oke! Blijkbaar was dit al een stap in de goede richting en had het (voor nu) alleen nog wat finising touches nodig. 
+Vraag 3: Zou een backlight in combinatie met locatie van het geluid werken zodat je weet waar geluid vandaan komt?
+Uitleg: In deze scene komt er een auto van de linkerkant aanrijden, de backlight geeft aan waar het geluid vandaan komt.
+![image](https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/997bedc7-d86c-4f11-b213-f6db40981e94)
+
+Resultaat: Dit is een goed idee! Zorg er alleen ook bij dit voor dat het niet te overduidelijk is, in deze situatie zou het goed kunnen werken.
+
+Opmerking: Ik hoef niet bij elke closed caption neer te zetten wie aan het praten is, als het overduidelijk is wie er aan het praten is, kan ik dit achterwege laten, ditzelfde geld voor overduidelijke geluiden.
+<img width="832" alt="image" src="https://github.com/Mennovlaming/human-centered-design-2223/assets/24406793/8ead372d-5cc3-4f43-a14c-d58df4068387">
+
+### Conslusie test 2
+
+Ik heb goed gespeeld met verschillende effecten, de backlight was een goed idee. De kleuren, locatie en namen van personen kan ik achterwege laten voor het eindproduct. 
+
+Ik heb alles wat uit de tests kwam meegenomen in mijn uiteindelijke versie, en ik vond het super interessant om een andere kijk te hebben op deze dingen. In het verleden heb ik nooit zoveel onderzoek gedaan naar een persoon specifiek, iets wat toch wel heel anders is dan voor een doelgroep. Het resultaat uiteindelijk lijkt helemaal niet zoveel te verschillen van de huidige closed captions van bijvoorbeeld Netflix, en dat is ook helemaal oke! Blijkbaar was dit al een stap in de goede richting en had het (voor nu) alleen nog wat finising touches nodig.
 
 ## Bronnen 
 - Flipping things (https://exclusive-design.vasilis.nl/flipping-things/)
@@ -162,44 +174,5 @@ Ik alles wat uit de tests kwam meegenomen in mijn uiteindelijke versie, en ik vo
 - Klasgenoten
 - Marie zelf
 
-
-## Testen
-
-Om onze prototypes zo goed mogelijk te laten werken, gaan we deze 2 keer laten testen ons testpersoon. Onze eerste test was iets minder optimaal, omdat we ervoor maar 2 uur hadden om iets voor te bereiden en het hierom lastig was om al een werkend prototype te hebben om te testen. 
-Mijn oplossing hiervoor was het ontwerpen van verschillende schermen, het bespreken van mogelijke opties en om goed te luisteren naar voorbeelden die voor haar al goed werken. 
-Onze eerste test was eigenlijk meer een kennismaking dan een daadwerkelijke test, omdat we nog geen prototypes hadden, wel hebben we zoveel mogelijk voorbereid en overlegt wat we wouden weten van Marie.
-
-### Test 1 
-
-Voor de test hadden wij als groepje een aantal vragen opgesteld, omdat wij onze tijd zo nuttig mogelijk wouden besteden.
- - Is er een verschil tussen 'doof' en 'Doof'?
- - Wat mis je momenteel het meeste als je een serie kijkt?
- - Heb je goede voorbeelden?
- 
-Ik had ook zelf nog een paar vragen:
- - Zou een iets uitgebreidere backlight voor jou kunnen werken?
- - Zou het voor jou werken als ik ga spelen met de locatie van de closed captions?
- - Kan ik een scene van stranger things gebruiken?
-
-### Insights Test 1
-
-De belangrijkste insights die ik heb kunnen meenemen uit de eerste test:
- - Het is voor Marie moeilijk om te zien wie er aan het praten is (als het niet overduidelijk is).
- - Achtergrondgeluiden worden niet meegenomen.
- - 'Lege' closed captions werken niet (bijvoorbeeld: [Spaans gepsrek])
- - Probeer te spelen met kleuren, vormen en locaties van de closed captions. 
- - Lichaamstaal is niet altijd te zien, probeer hierom emoties in de closed captions te krijgen.
- - Chaotische scene's kunnen erg lastig zijn, omdat er veel door elkaar gebeurd.
- - Netflix heeft de beste closed captions.
- - Maak het niet te overdreven, als je iets ziet hoeft het niet nog een keer vermeld te worden.
-
-### Conclusie 
-
-Om voor Marie een betere closed caption ervaring te creeeren, zullen we moeten gaan spelen met de vormgeving van de closed captions. 
-Denk ook om achtergrondgeluiden die vaak vergeten worden. Voor goede voorbeelden kunnen we kijken naar bijvoorbeeld netflix. Het nieuwe
-seizoen van Stranger Things is een goed voorbeeld van te veel closed captions. 
-Voor de tweede test wil ik een prototype hebben om Marie zelf te laten testen en hier de uiteidelijke versie uit te krijgen.
-
-## Test 2
 
 
